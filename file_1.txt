@@ -1,0 +1,8 @@
+id,    lastname,     firstname,      secondname,        phone
+1,     Ivanov,       Ivan,           Ivanovich,         +71234567890
+2,     Kozlov, Oleg,        Evgrafovich,       +79051256598
+3,     Polyakova,    Nataliya,       Alexsandrovna,     +79102369565
+4,     Petrov,       Petr,           Petrovich,         +71239999999
+5,     Sidorov,      Oleg,           Viktorovich,       +79213569874
+6,     Zykov,        Nikolay,        Anatolievich,      +79216987898
+7,     Savina,       Vera,           Ivanovna,          +79216897898
